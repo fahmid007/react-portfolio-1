@@ -1,0 +1,17 @@
+.about {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+/* about-left */
+.about-left {
+    flex: 1;
+}
+
+
+/* about-right */
+.about-right {
+    flex: 1;
+}
